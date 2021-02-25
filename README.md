@@ -11,3 +11,9 @@ Kelebihan yang didapatkan bila menggunakan fragment adalah sebagai berikut:
 • Tidak perlu memasukkan nama file fragment ke dalam “AndroidManifest” yang diperlukan oleh activity.
 
 • Fungsi yang berada pada activity dapat langsung digunakan dalam fragment tersebut tanpa harus membuat ulang. Contoh: pada saat back, fragment hanya perlu memanggil fungsi getactivity
+
+## Contoh program Intent Result 
+
+![Alt Text](https://github.com/lethanaxeger/Fragment/blob/master/direction.png)
+
+Jadi setiap tombol itu menyambungkan dari satu ke satu Activities lain. Dan kolom isi tersebut diisi pada Activity ke 2 dan nanti ditampilkan di Activity 1
