@@ -12,8 +12,6 @@ Kelebihan yang didapatkan bila menggunakan fragment adalah sebagai berikut:
 
 • Fungsi yang berada pada activity dapat langsung digunakan dalam fragment tersebut tanpa harus membuat ulang. Contoh: pada saat back, fragment hanya perlu memanggil fungsi getactivity
 
-## Contoh program Intent Result 
+Fragment juga bisa disebut sub nya activity, satu activity bisa memiliki lebih dari satu fragment. Satu kelas Java dinyatakan sebagai sebuah fragment ketika kelas tersebut meng-extends (inherit) kelas Fragment.
 
-![Alt Text](https://github.com/lethanaxeger/Fragment/blob/master/direction.png)
-
-Jadi setiap tombol itu menyambungkan dari satu ke satu Activities lain. Dan kolom isi tersebut diisi pada Activity ke 2 dan nanti ditampilkan di Activity 1
+![Alt Text](https://github.com/lethanaxeger/Fragment/blob/master/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313532302f312a7a6b445a5f2d456b6836334e6e6371374145654336512e706e67.png)
