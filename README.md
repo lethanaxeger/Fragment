@@ -1,6 +1,8 @@
-# Fragment
+# Materi Fragment
 
-h1.Apasih Fragment Itu?
+ Mohon maaf bila ada salah ketik / typo atau salah informasi.
+
+## Apasih Fragment Itu?
 
 Fragment merupakan salah satu komponen pada Android Studio dengan fungsi yang hampir sama seperti activity tetapi memiliki “lifecycle” yang berbeda. Fragment merupakan bagian dari sebuah activity yang mana sebuah fragment tidak akan ada bila tidak ada sebuah activity karena fragment membutuhkan akses dari activity untuk dapat dijalankan.
 
