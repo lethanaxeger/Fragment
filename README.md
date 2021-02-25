@@ -15,3 +15,11 @@ Kelebihan yang didapatkan bila menggunakan fragment adalah sebagai berikut:
 Fragment juga bisa disebut sub nya activity, satu activity bisa memiliki lebih dari satu fragment. Satu kelas Java dinyatakan sebagai sebuah fragment ketika kelas tersebut meng-extends (inherit) kelas Fragment.
 
 ![Alt Text](https://github.com/lethanaxeger/Fragment/blob/master/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313532302f312a7a6b445a5f2d456b6836334e6e6371374145654336512e706e67.png)
+
+## Contoh penerapan Fragment pada Aplikasi
+
+![Alt Text](https://github.com/lethanaxeger/Fragment/blob/master/1.jpg)
+
+![Alt Text](https://github.com/lethanaxeger/Fragment/blob/master/2.jpg)
+
+Setiap tombol tersebut mengarah ke suatu Fragment. Dan tahukah kalian? Fragment tersebut berada di satu Activity saja! Hal inilah yang membuatnya fleksibel atau _reuseable_ karena tidak akan hilang fragment tersebut bila kalian masih ada di satu Activity dengan fragment tersebut.
